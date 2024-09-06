@@ -1,1 +1,1 @@
-# khatriaadarsh-JavaScript-Classes--Jawan-Pakistan
+# JavaScript-Classes--Jawan-Pakistan
